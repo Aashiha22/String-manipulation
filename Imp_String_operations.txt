@@ -1,0 +1,3 @@
+Reverse string: new StringBuilder(string_1).reverse().toString()
+To upper case : string_1.toUpperCase();
+Replace : string_1 = string_1.replace("-","")
